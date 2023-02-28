@@ -11,4 +11,4 @@
 * Advanced Python: https://app.pluralsight.com/library/courses/advanced-python/table-of-contents
 * Core Python 3: Getting Started: https://app.pluralsight.com/library/courses/getting-started-python-core/table-of-contents
 * Getting Started with the Python 3 Standard Library: https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents
-* Core Python 3: Organizing Larger Programs: https://app.pluralsight.com/library/courses/core-python-organizing-larger-programs/table-of-contents
+* Organizing Larger Programs: https://app.pluralsight.com/library/courses/core-python-organizing-larger-programs/table-of-contents

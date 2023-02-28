@@ -27,6 +27,10 @@ https://app.pluralsight.com/library/courses/getting-started-python-core/table-of
 
 https://app.pluralsight.com/course-player?clipId=2f2b417b-8aaf-4548-af9c-5e61a0932e09
 
+#### Object & Types
+
+https://app.pluralsight.com/course-player?clipId=cd540275-64df-4bfa-b98f-c6e7a840b187
+
 #### Collections
 
 https://app.pluralsight.com/course-player?clipId=8e80ddad-0982-4d88-ad80-768325d53757

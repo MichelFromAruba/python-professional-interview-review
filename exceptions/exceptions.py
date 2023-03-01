@@ -19,4 +19,6 @@ def convert(tokens: list[str]):
     except (KeyError, TypeError) as e:
         print(f'error: {e!r}', file=sys.stderr)
         raise
+    finally:
+        print('we are done')
 

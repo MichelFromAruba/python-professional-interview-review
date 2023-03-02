@@ -14,3 +14,5 @@
 * Core Python 3: Getting Started: https://app.pluralsight.com/library/courses/getting-started-python-core/table-of-contents
 * Getting Started with the Python 3 Standard Library: https://app.pluralsight.com/library/courses/python-standard-library-getting-started/table-of-contents
 * Organizing Larger Programs: https://app.pluralsight.com/library/courses/core-python-organizing-larger-programs/table-of-contents
+* Abstract Base Classes: https://app.pluralsight.com/library/courses/core-python-abstract-base-classes/table-of-contents
+* Functions and Functional Programming: https://app.pluralsight.com/course-player?clipId=685835b0-96aa-40cd-a5f9-710683ff066f

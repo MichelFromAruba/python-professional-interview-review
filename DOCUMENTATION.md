@@ -1,7 +1,9 @@
 # DOCUMENATION
 
-2. ChatGPT
-3. https://docs.python.org/3/
+* ChatGPT
+* Python: https://docs.python.org/3/
+* Pytest: https://docs.pytest.org/en/7.1.x/contents.html
+
 
 ## Python Software Engineering
 
